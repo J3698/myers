@@ -1,0 +1,3 @@
+*.so
+build/
+myersdiff_anti.egg-info/
