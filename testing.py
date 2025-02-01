@@ -6,7 +6,7 @@ import tqdm
 import random
 
 # my cpp version, may be installed as different name
-import myers_diff as mdc
+import myersdiff_anti as mdc
 
 N = 75  # length
 NC = 10 # num chars
